@@ -1,0 +1,17 @@
+.nav{
+  grid-area: nav;
+  text-align: center;
+}
+.item{
+  list-style-type: none;
+  margin-bottom: 10px;
+  font-size: 20px;
+}
+.link:hover{
+  color: #fff;
+}
+.link{
+  text-decoration: none;
+  color: rgb(119,119,119);
+  cursor: pointer;
+}

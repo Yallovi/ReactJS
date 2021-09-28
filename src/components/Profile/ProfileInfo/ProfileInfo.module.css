@@ -1,0 +1,16 @@
+.content{ 
+  /* grid-area: content;
+  max-width: 1200px;
+  background-color: rgb(51,51,54); */
+
+}
+.img{
+  width: 1200px;
+  height: 400px;
+}
+.item{ 
+  color: white;
+}
+.info{
+  padding-top: 15px;
+}

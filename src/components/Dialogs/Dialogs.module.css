@@ -1,0 +1,30 @@
+.Dialogs{
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+}
+.Dialog{
+    list-style-type: none;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+.Message{
+   margin-top: 20px; 
+   text-align: center;
+}
+.link:hover{
+    color: #fff;
+  }
+.link{
+  text-decoration: none;
+  color: rgb(119,119,119);
+  cursor: pointer;
+}
+li img{
+  width: 60px;
+  border-radius: 50%;
+  margin-right: 15px;
+}
+.formMessage{
+  text-align: center;
+  margin-top: 50px;
+}
